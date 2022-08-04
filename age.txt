@@ -1,0 +1,2 @@
+Name = Devendra Singh
+Age = 19
